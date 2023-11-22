@@ -13,7 +13,7 @@ if (!client.isOpen) {
   client.connect()
 }
 
-// client.set('name', 'mario')
+// client.set('name', 'Tommy')
 // client.get('name')
 
 export { client }
